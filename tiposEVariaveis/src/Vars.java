@@ -1,5 +1,5 @@
-public class Vars {
+public class vars {
     public static void main(String[] args) throws Exception {
-        System.out.println("Helloooou, World!");
+        System.out.println("Hello, World!");
     }
 }
