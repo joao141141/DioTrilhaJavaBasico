@@ -3,7 +3,7 @@ public class ternario {
         int a, b;
 
         a = 6;
-        b = 6;
+        b = 5;
         String resultado = "";
         if (a==b)
             resultado = "Verdadeiro";
